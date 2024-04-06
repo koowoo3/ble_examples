@@ -1,3 +1,8 @@
+# 브랜치 
+* TI SimpleLink CC13x2 / CC26x2 SDK 4.10.00.00 선택하기
+#
+
+
 ## Table of Contents
 
 * [Navigating the Repository](#navigating-the-repository)
